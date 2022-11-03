@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">L2_fedeiko</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Laboratory Fedeiko</string>
+    <string name="nav_header_subtitle">fedeiko.daniela1121@vu.cdu.edu.ua</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_some">Some</string>
+    <string name="menu_some_t">Tabbed</string>
+
+    <string name="some">💎Some fragment💎</string>
+    <string name="title_activity_tactivity">TActivity</string>
+    <string name="tab_text_1">🏵Tab 1🏵</string>
+    <string name="tab_text_2">🏵Tab 2🏵</string>
+    <string name="tab_text_3">🏵Tab 3🏵</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_some_tabbed">SomeTabbedActivity</string>
+    <string name="name_prog_t">🌼Tabbed Activity</string>
+    <string name="title_activity_some_tb">SomeTbActivity</string>
+
+    <string name="btn_back">Navigation</string>
+</resources>
